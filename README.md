@@ -27,5 +27,6 @@ Classification Report:
 weighted avg       0.99      0.99      0.99     19384
 
 
-The first Model preforms the best. It's more precisie when it comes to determining high-risk loans.
-I wouldn't use either of these models because it's proably more important to a banking instution that high-risk loans can be identified easier or more accurately. With more tweaking i think we could arrive at a model that more accurately identifies High-risk loans.
+The first Model performs the best. It's more precise when it comes to determining high-risk loans.
+I wouldn't use either of these models because it's probably more important to a banking institution that high-risk loans can be identified easier or more accurately. With more tweaking I think we could arrive at a model that more accurately identifies High-risk loans.
+
